@@ -20,7 +20,7 @@ I love to read books and listen to music.
 
 ![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nur-shuvo&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnur-shuvo&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-shuvo&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
