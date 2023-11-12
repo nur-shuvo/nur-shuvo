@@ -16,7 +16,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I'm a Software Engineer focusing on Android development with over 3-years experience. My stronger skills are in Android, Kotlin, Java and C++. I'm currently working at Samsung Electronics as Sr. Software Engineer. I am good at connecting a feature with business value and the importance of user experience. 
+I'm a Software Engineer focusing on Android development with over 4-years experience. My stronger skills are in Android, Kotlin, Java and C++. I'm currently working at Samsung Electronics as Sr. Software Engineer. I am good at connecting a feature with business value and the importance of user experience. 
 
 My previous works include a large-scale android application for Authentication and Authorization with Samsung Account featuring many account related features following OAuth 2.0 Standards, which helps other service clients to easily and securely authenticate and authorize with Samsung account. This application is deployed to all Samsung Android phones and Tablets. Apart from that I've also worked with Wear OS and iOS with over 1-year experience. I enjoy working in complex and performance-intensive applications.
 
