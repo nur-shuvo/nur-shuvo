@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-E34F26?style=flat-square&logo=kotlin&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
