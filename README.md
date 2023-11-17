@@ -2,6 +2,7 @@
 
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
+![Jetpack](https://img.shields.io/badge/Jetpack-e33977?style=flat-square&logo=retrofit&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-807574?style=flat-square&logo=mvvm&logoColor=black)
 ![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-705dcf?style=flat-square&logo=retrofit&logoColor=black)
@@ -19,8 +20,6 @@
 ![Swift](https://img.shields.io/badge/Swift-b86e69?style=flat-square&logo=java&logoColor=white)
 
 I'm a Software Engineer focusing on **Android development** with over **4-years experience**. My stronger skills are in **Android, Kotlin, Java and C++**. I'm currently working at Samsung Electronics as Sr. Software Engineer. I am good at connecting a feature with business value and the importance of user experience. 
-
-My previous works include a large-scale android application for Authentication and Authorization with Samsung Account featuring many account related features following OAuth 2.0 Standards, which helps other service clients to easily and securely authenticate and authorize with Samsung account. This application is deployed to all Samsung Android phones and Tablets. Apart from that I've also worked with Wear OS and iOS with over 1-year experience. I enjoy working in complex and performance-intensive applications.
 
 I love to read books and listen to music.
 
