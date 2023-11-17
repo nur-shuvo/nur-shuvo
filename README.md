@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
-![iOS / Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective_C-e33977?style=flat-square&logo=retrofit&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-b86e69?style=flat-square&logo=java&logoColor=white)
 
