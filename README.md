@@ -1,8 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+### Technologies and Languages
+
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Jetpack](https://img.shields.io/badge/Jetpack-e33977?style=flat-square&logo=retrofit&logoColor=black)
+![Navigation Component](https://img.shields.io/badge/Navigation_Component-b34d8d?style=flat-square&logo=retrofit&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-807574?style=flat-square&logo=mvvm&logoColor=black)
 ![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-705dcf?style=flat-square&logo=retrofit&logoColor=black)
