@@ -3,6 +3,7 @@
 ### Technologies and Languages
 
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Jetpack](https://img.shields.io/badge/Jetpack-e33977?style=flat-square&logo=retrofit&logoColor=black)
 ![Navigation Component](https://img.shields.io/badge/Navigation_Component-b34d8d?style=flat-square&logo=retrofit&logoColor=black)
