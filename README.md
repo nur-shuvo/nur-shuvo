@@ -24,7 +24,7 @@
 ![Objective-C](https://img.shields.io/badge/Objective_C-e33977?style=flat-square&logo=retrofit&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-b86e69?style=flat-square&logo=java&logoColor=white)
 
-I'm a Software Engineer focusing on **Android development** with over **4-years experience**. My stronger skills are in **Android, Kotlin, Java and C++**. I'm currently working at Samsung Electronics as Sr. Software Engineer. I am good at connecting a feature with business value and the importance of user experience. 
+I'm a Software Engineer focusing on **Android development** with over **5-years experience**. My stronger skills are in **Android, Kotlin, Java and C++**. I'm currently working at Samsung Electronics as Sr. Software Engineer. I am good at connecting a feature with business value and the importance of user experience. 
 
 I love to read books and listen to music.
 
