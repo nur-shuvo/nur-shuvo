@@ -2,7 +2,7 @@
 
 ### Technologies and Languages
 
-![Android SDK](https://img.shields.io/badge/Android%20SDK-blue)
+![Android](https://img.shields.io/badge/Android%20SDK-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-005C84?style=flat-square&logo=retrofit&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Jetpack](https://img.shields.io/badge/Jetpack-e33977?style=flat-square&logo=retrofit&logoColor=black)
@@ -15,8 +15,6 @@
 ![Work Manager](https://img.shields.io/badge/Work_Manager-b34d8d?style=flat-square&logo=retrofit&logoColor=black)
 ![Rest API](https://img.shields.io/badge/Rest_Api-e3d42d?style=flat-square&logo=retrofit&logoColor=black)
 ![JUnit](https://img.shields.io/badge/JUnit-e33977?style=flat-square&logo=retrofit&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
