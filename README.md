@@ -1,5 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+### I'm a Contributor to
+android/[ndk-samples](https://github.com/android/ndk-samples)
+
+libre-tube/[LibreTube](https://github.com/libre-tube/LibreTube)
+
 ### Technologies and Languages
 
 ![Android](https://img.shields.io/badge/Android%20SDK-blue)
