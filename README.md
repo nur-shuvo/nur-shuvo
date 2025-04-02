@@ -12,8 +12,6 @@ libre-tube/[LibreTube](https://github.com/libre-tube/LibreTube)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-blue)
-![MVVM](https://img.shields.io/badge/MVVM-807574?style=flat-square&logo=mvvm&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
 
 I'm a Software Engineer focusing on **Android development** with over **5-years experience**. My stronger skills are in **Android, Kotlin, Java and C++**. I am good at connecting a feature with business value and the importance of user experience. 
