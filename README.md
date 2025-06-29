@@ -13,6 +13,8 @@ libre-tube/[LibreTube](https://github.com/libre-tube/LibreTube)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-blue)
+![KMP](https://img.shields.io/badge/KMP-005C84?style=flat-square&logo=retrofit&logoColor=white)
 
 I'm a Software Engineer focusing on **Android development** with over **5-years experience**. My stronger skills are in **Android, Kotlin, Java and C++**. I am good at connecting a feature with business value and the importance of user experience. 
 
