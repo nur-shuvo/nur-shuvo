@@ -15,7 +15,6 @@ libre-tube/[LibreTube](https://github.com/libre-tube/LibreTube)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e0c3c1?style=flat-square&logo=kotlin&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-b86e69?style=flat-square&logo=java&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-blue)
-![Firebase](https://img.shields.io/badge/Firebase-72b380?style=flat-square&logo=retrofit&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-blue)
 ![KMP](https://img.shields.io/badge/KMP-005C84?style=flat-square&logo=retrofit&logoColor=white)
 
