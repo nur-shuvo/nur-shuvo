@@ -23,9 +23,9 @@ I'm a **Software Engineer** with over **5 years** dedicated to crafting **Androi
 
 A commitment to the open-source community, contributing to projects focused on native performance and modern development:
 
-* **android/ndk-samples:** Enhancing native code integration and performance examples.
-* **Kotlin/KMP-App-Template-Native:** Shaping the future of cross-platform development with Kotlin Multiplatform.
-* **libre-tube/LibreTube:** Contributing to a feature-rich, open-source Android client.
+* **[android/ndk-samples](https://github.com/android/ndk-samples):** Enhancing native code integration and performance examples.
+* **[Kotlin/KMP-App-Template-Native](https://github.com/Kotlin/KMP-App-Template-Native):** Shaping the future of cross-platform development with Kotlin Multiplatform.
+* **[libre-tube/LibreTube](https://github.com/libre-tube/LibreTube):** Contributing to a feature-rich, open-source Android client.
 
 
 ## ✨ Beyond Code
