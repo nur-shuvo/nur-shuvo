@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 
-I'm a **Software Engineer** with over **5 years** dedicated to crafting **Android applications**. My philosophy is to build features that are not just technically sound, but that directly drive **business value** and deliver a delightful **user experience**. My deep expertise includes native Android development alongside **C++** for performance-critical tasks.
+I'm a **Software Engineer** with over **6 years** dedicated to crafting **Android applications**. My philosophy is to build features that are not just technically sound, but that directly drive **business value** and deliver a delightful **user experience**. My deep expertise includes native Android development alongside **C++** for performance-critical tasks.
 
 
 ## 🛠️ Tech Stack
