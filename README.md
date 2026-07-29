@@ -37,7 +37,7 @@ When the screen is off, you can find me enjoying a **good book** or listening to
 
 ![nur's Stats](https://github-readme-stats.vercel.app/api?username=nur-shuvo&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 ![nur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nur-shuvo&theme=darcula&hide_border=true)
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-shuvo&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![nur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-shuvo&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaduzzaman-nur-shuvo-828833195/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nur.shuvo.3)
